@@ -1,2 +1,2 @@
 # Python-Basics-
-These are my codes from my A-Level days, that I made to retain the logic behind important concepts and algorithms. Some of the more complex algorithms are bombarded with comments so that the logic is preserved and easier to retain.  
+These are my codes from when I was learning python. Now they serve as a quick way to revise familiar concepts and syntax. I've made these files specifically for the purpose of my revision of concepts as i've bombarded them with comments of elaborate explanations. 
