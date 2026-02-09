@@ -1,2 +1,2 @@
 # Python-Basics-
-These are my codes from when I was learning python. Now they serve as a quick way to revise familiar concepts and syntax. I've made these files specifically for the purpose of my revision of concepts as i've bombarded them with comments of elaborate explanations. 
+These are my codes from when I was learning python. 
